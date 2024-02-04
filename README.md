@@ -1,3 +1,3 @@
-snakes and ladders 
+# snakes and ladders 
 
 run main.py to play the game
