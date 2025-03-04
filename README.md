@@ -35,7 +35,7 @@ python main.py
 Upon starting the game, you'll be prompted to:
 - Input the number of players (between 2-4).
 - Each player will input their name and choose a color (purple, yellow, cyan, or white).
-- 
+
 ### 2. Gameplay:
 - Players take turns to roll the dice and move along the board.
 - Players will encounter snakes and ladders:
